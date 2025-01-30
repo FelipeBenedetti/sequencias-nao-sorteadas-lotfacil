@@ -25,7 +25,7 @@ Este é um aplicativo desktop desenvolvido em Python usando a biblioteca Tkinter
 ### Passos
 1. Clone este repositório:
    ```bash
-   git clone git@github.com:FelipeBenedetti/sequencias-nao-sorteadas-lotfacil.git
+   git clone https://github.com/FelipeBenedetti/sequencias-nao-sorteadas-lotfacil.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
